@@ -1,0 +1,14 @@
+node_modules/
+dist/
+dist-final/
+dist-package/
+dist-package-new/
+release/
+release-new/
+win-unpacked/
+*.log
+.DS_Store
+.vscode/
+.idea/
+*.db
+*.sqlite
